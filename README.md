@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm oussama ennadafy</h1>
 <h3 align="center">A passionate frontend developer from morocco</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamaenndafy&label=Profile%20views&color=0e75b6&style=flat" alt="oussamaenndafy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamaennadafy&label=Profile%20views&color=0e75b6&style=flat" alt="oussamaennadafy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oussamaenndafy" alt="oussamaenndafy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oussamaennadafy" alt="oussamaennadafy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [json cracker](https://github.com/oussamaennadafy/json-cracker.git)
 
