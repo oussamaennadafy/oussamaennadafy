@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm oussama ennadafy</h1>
 <h3 align="center">A passionate frontend developer from morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamaennadafy&label=Profile%20views&color=0e75b6&style=flat" alt="oussamaennadafy" /> </p>
-
 - 🔭 I’m currently working on [json cracker](https://github.com/oussamaennadafy/json-cracker.git)
 
 - 🌱 I’m currently learning **reactjs**
