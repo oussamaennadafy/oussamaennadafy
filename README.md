@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [linkedIn](linkedIn)
 
-- 💬 Ask me about **react javascript vannilla**
+- 💬 Ask me about **react javascript vanilla**
 
 - 📫 How to reach me **oussama.ennadafy@gmail.com**
 
