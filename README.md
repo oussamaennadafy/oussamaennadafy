@@ -3,13 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [json cracker](https://github.com/oussamaennadafy/json-cracker.git)
-
 - 🌱 I’m currently learning **reactjs**
-
-- 👯 I’m looking to collaborate on [emmet](https://github.com/emmetio/emmet)
-
-- 📝 I regularly write articles on [linkedIn](linkedIn)
 
 - 💬 Ask me about **react javascript vanilla**
 
