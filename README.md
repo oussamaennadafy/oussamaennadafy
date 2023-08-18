@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **oussama.ennadafy@gmail.com**
 
+- 🧑 my portfolio : **https://www.oussama-ennadafy.vercel.app**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
