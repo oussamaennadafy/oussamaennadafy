@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **oussama.ennadafy@gmail.com**
 
-- 🧑 my portfolio : **https://www.oussama-ennadafy.vercel.app**
+- 🧑 my portfolio : **https://oussama-ennadafy.vercel.app**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
