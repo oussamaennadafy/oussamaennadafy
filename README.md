@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **reactjs / nextjs**
+- 🌱 I’m currently learning **laravel / nextjs**
 
 - 💬 Ask me about **react / javascript vanilla**
 
