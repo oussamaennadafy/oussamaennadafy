@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **laravel / nextjs**
+- 🌱 I’m currently learning **flutter / nextjs**
 
-- 💬 Ask me about **react / javascript vanilla**
+- 💬 Ask me about **react / javascript vanilla / react native**
 
 - 📫 How to reach me **oussama.ennadafy@gmail.com**
 
