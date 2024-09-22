@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **flutter / nextjs**
 
-- 💬 Ask me about **react / javascript vanilla / react native**
+- 💬 Ask me about **react / javascript / typescipt / react native**
 
 - 📫 How to reach me **oussama.ennadafy@gmail.com**
 
