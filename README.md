@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm oussama ennadafy</h1>
-<h3 align="center">A passionate full-stack developer from morocco</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 
 
-- 🌱 I’m currently learning **flutter / nextjs**
+- 🌱 I’m currently learning **aws / ai automations**
 
-- 💬 Ask me about **react / javascript / typescipt / react native**
+- 💬 Ask me about **next js / Flutter / node js / react native**
 
 - 📫 How to reach me **oussama.ennadafy@gmail.com**
 
